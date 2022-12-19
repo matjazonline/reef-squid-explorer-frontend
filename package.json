@@ -51,7 +51,7 @@
     "nuxt-i18n": "^6.18.0",
     "sass": "^1.32.5",
     "sass-loader": "^10.1.1",
-    "vue-json-csv": "^1.2.12",
+    "vue-json-csv": "^2.1.0",
     "vue-json-pretty": "^1.8.1",
     "vue-promised": "^2.1.0",
     "vuelidate": "^0.7.6",
