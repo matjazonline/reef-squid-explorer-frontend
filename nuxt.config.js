@@ -83,8 +83,8 @@ export default {
     clientConfigs: {
       default: {
         httpEndpoint: network.backendHttp,
-        // wsEndpoint: network.backendWs,
-        websocketsOnly: false,
+        wsEndpoint: network.backendWs,
+        websocketsOnly: true,
       },
     },
   },
