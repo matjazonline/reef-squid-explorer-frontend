@@ -27,7 +27,7 @@
     "@ethersproject/address": "^5.5.0",
     "@ethersproject/hash": "^5.5.0",
     "@ethersproject/strings": "^5.5.0",
-    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@fortawesome/free-regular-svg-icons": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@nuxtjs/apollo": "^4.0.1-rc.5",
     "@nuxtjs/axios": "^5.12.5",
